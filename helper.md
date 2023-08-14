@@ -4,6 +4,28 @@ Visit [ImageColorPicker](https://imagecolorpicker.online/)
 
 ## Packages
 
+###
+SnackBar
+
+```bash
+npm i react-native-snackbar
+```
+
+```javascript
+Snackbar.show({
+  text: 'Hello world',
+  duration: Snackbar.LENGTH_INDEFINITE,
+  action: {
+    text: 'UNDO',
+    textColor: 'green',
+    onPress: () => { /* Do something. */ },
+  },
+});
+```
+
+[NPM SnackBar](https://www.npmjs.com/package/react-native-snackbar)
+
+
 ### UXCAM
 Install UXCAM:
 ```bash
