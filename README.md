@@ -19,8 +19,8 @@ Visit [ImageColorPicker](https://imagecolorpicker.online/)
 
 ## Packages
 
-### {#snackbar}
-SnackBar 
+### 
+SnackBar {#snackbar}
 
 ```bash
 npm i react-native-snackbar
