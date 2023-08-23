@@ -2,7 +2,7 @@
 A some features to create react native apps faster.
 
 # Headers
-- [Snackbar](#snackbar)
+- [Snackbar](#SnackBar)
 - [UXCAM](#uxcam)
 - [Firebase](#firebase)
 - [Webview](#webview)
