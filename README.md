@@ -19,7 +19,7 @@ Visit [ImageColorPicker](https://imagecolorpicker.online/)
 
 ## Packages
 
-### SnackBar {#snackbar}
+### SnackBar
 
 ```bash
 npm i react-native-snackbar
