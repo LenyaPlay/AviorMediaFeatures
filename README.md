@@ -7,9 +7,10 @@ A some features to create react native apps faster.
 - [Firebase](#firebase)
 - [Webview](#webview)
 - [Notifee](#notifee)
-- [Slider](#svg)
+- [Svg](#svg)
+- [Slider](#swiper/slider)
 - [Icons](#icons)
-- [Idfaa](#idfaa)
+- [Idfaa](#idfaa-advertising-id)
 - [Navigation](#navigation)
 - [Styles](#styles)
 
@@ -40,7 +41,7 @@ Snackbar.show({
 [NPM SnackBar](https://www.npmjs.com/package/react-native-snackbar)
 
 
-### UXCAM {#uxcam}
+### UXCAM
 Install UXCAM: 
 ```bash
 npm install react-native-ux-cam
@@ -57,7 +58,7 @@ const configuration = {
 RNUxcam.startWithConfiguration(configuration);
 ```
 
-### Firebase {#firebase}
+### Firebase
 Install Firebase packages:
 ```bash
 npm install @react-native-firebase/app @react-native-firebase/messaging
@@ -73,7 +74,7 @@ apply plugin: 'com.google.gms.google-services'
 Add Google services configuration (google-services.json) to `android/app/build.gradle`:
 
 
-### WebView {#webview}
+### WebView
 Install WebView:
 ```bash
 npm install react-native-webview
@@ -103,7 +104,7 @@ export default function Crita({navigation, route}:any) {
 }
 ```
 
-### Notifee {#notifee}
+### Notifee
 Install Notifee:
 ```bash
 npm install @notifee/react-native
@@ -142,13 +143,13 @@ React.useEffect(() => { handleMessages() }, []);
 ```
 
 
-### Localize {#localize}
+### Localize
 Install Localize:
 ```bash
 npm install react-native-localize
 ```
 
-### Svg {#svg}
+### Svg
 Install SVG:
 ```bash
 npm install react-native-svg
@@ -156,31 +157,31 @@ npm install react-native-svg
 https://react-svgr.com/playground/?native=true
 
 
-### Icons {#icons}
+### Icons
 Find icons at:
 - [UXWing](https://uxwing.com/no-wifi-icon/)
 - [Icons8](https://icons8.com/icons/set/loading)
 - [OnlineGIFTools](https://onlinegiftools.com/change-gif-background-color)
 
-### Idfaa Advertising Id {#idfaa}
+### Idfaa Advertising Id
 Install Idfaa Advertising Id:
 ```bash
 npm install @sparkfabrik/react-native-idfa-aaid
 ```
 
-### NetInfo {#netinfo}
+### NetInfo
 Install NetInfo:
 ```bash
 npm install @react-native-community/netinfo
 ```
 
-### Swiper/Slider {#slider}
+### Swiper/Slider
 Install Swiper/Slider:
 ```bash
 npm install react-native-swiper-flatlist
 ```
 
-## Navigation {#navigation}
+## Navigation
 
 ```js
 {navigation, route}:any
@@ -236,7 +237,7 @@ Using
   </NavigationContainer>
 ```
 
-## Styles {#styles}
+## Styles
 ```js
 import { StyleSheet } from "react-native"
 
