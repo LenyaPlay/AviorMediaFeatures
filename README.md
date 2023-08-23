@@ -8,7 +8,7 @@ A some features to create react native apps faster.
 - [Webview](#webview)
 - [Notifee](#notifee)
 - [Svg](#svg)
-- [Slider](#swiper/slider)
+- [Slider](#swiperslider)
 - [Icons](#icons)
 - [Idfaa](#idfaa-advertising-id)
 - [Navigation](#navigation)
